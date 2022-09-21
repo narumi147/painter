@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        // "--web-port=50092"
+        //  "--web-renderer=html"
+      ]
+    },
+    {
+      "name": "Flutter (profile mode)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "Flutter (release mode)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}

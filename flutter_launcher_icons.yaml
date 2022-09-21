@@ -1,0 +1,19 @@
+flutter_icons:
+  android: true
+  image_path_android: "res/img/icon_rounded.png"
+  ios: true
+  image_path_ios: "res/img/icon_rounded.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "res/img/icon.png"
+    background_color: "#ffffff"
+    theme_color: "#ffffff"
+  windows:
+    generate: true
+    image_path: "res/img/icon_alpha.png"
+    icon_size: 256
+  macos:
+    generate: true
+    image_path: "res/img/icon_rounded.png"
+
